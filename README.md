@@ -238,3 +238,6 @@ This repository serves as the official landing page for DVD Photo Slideshow. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DVD Photo Slideshow today!**
+
+---
+**Last updated:** 2026-09-07 20:20:22 UTC
