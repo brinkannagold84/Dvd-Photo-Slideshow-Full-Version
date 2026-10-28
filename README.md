@@ -240,4 +240,4 @@ This repository serves as the official landing page for DVD Photo Slideshow. The
 **Get the most recent version of DVD Photo Slideshow today!**
 
 ---
-**Last updated:** 2026-10-27 21:43:47 UTC
+**Last updated:** 2026-10-28 00:54:37 UTC
